@@ -1,0 +1,86 @@
+.navbar {
+    padding: 2% 3% 2% 3%;
+    height: 2
+    250px;
+    background-color: white;
+  }
+  
+  .logo {
+    height: 25px;
+  }
+  h2 {
+    font-family: 'Satisfy', serif;
+    font-size: 48px;
+    color:#bb285c;
+  }
+
+  .blackbackground {
+    background-color: black;
+    padding: 5%;
+    color:white;
+    margin-left:5%;
+    margin-right:5%;
+    font-family: 'Mochiy Pop One', sans-serif;
+
+  }
+  .text-center {
+    text-align: center;
+    
+  }
+  
+  .hero {
+    background-image: url("assets/home\ page\ header\ img.png");
+    height: 550px;
+    color: #fff;
+    padding: 10%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 0 5% 0 5%; 
+  }
+  
+  .hero p {
+    width: 20%;
+  }
+  
+  button {
+    padding: 1% 1%; 
+    color: #bb285c;
+  }
+
+  .container {
+    font-family: 'Satisfy', serif;
+  }
+
+   .beauty {
+    font-family: 'Satisfy', serif;
+    color:black;
+   }
+
+   .pink-background {
+    background-color: #bb285c ;
+    padding: 5%;
+    font-family: 'Satisfy', serif;
+
+
+   }
+
+   .products {
+    background-color: #bb285c ;
+    padding: 5%;
+    font-family: 'Satisfy', serif;
+   }
+   
+   .panties {
+    
+     width:18vw;
+   }
+
+   .teddys {
+     width: 15vw;
+   }
+
+   .pink-pink {
+    background-color: #bb285c ;
+   }
+
+   .pink-background
